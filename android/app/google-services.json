@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "261320555308",
+    "project_id": "qrder-wxpm9j",
+    "storage_bucket": "qrder-wxpm9j.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261320555308:android:b0c7b27227ec81ee5c4a89",
+        "android_client_info": {
+          "package_name": "com.uninorte.qrder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxi7fb8syKcq1pFVE82_Q8qkNvmB4ZtF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
